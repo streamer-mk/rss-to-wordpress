@@ -1,1 +1,1 @@
-
+# rss_generator пакет
