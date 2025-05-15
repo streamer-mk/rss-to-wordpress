@@ -13,4 +13,4 @@
 ## За Railway:
 - Deploy на Railway преку zip или GitHub
 - Користи `worker` во Procfile
-- [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateRepo=[streamer-mk/rss-to-wordpress](https://github.com/streamer-mk/rss-to-wordpress)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateRepo=streamer-mk/rss-to-wordpress)
