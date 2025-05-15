@@ -1,3 +1,7 @@
 feedparser
 requests
 beautifulsoup4
+lxml
+python-dotenv
+schedule
+
